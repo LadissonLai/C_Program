@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1578821797 source:d:\vs_station\c_program\mallocmemery\mallocmemery.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+

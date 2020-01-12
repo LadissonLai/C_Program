@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1578760404 source:d:\vs_station\c_program\guessnumber\guessnumber.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
